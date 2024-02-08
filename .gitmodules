@@ -1,0 +1,3 @@
+[submodule "miliukhin"]
+	path = miliukhin
+	url = git@github.com:miliukhin/lpnu_cad_course.git
