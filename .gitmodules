@@ -1,3 +1,12 @@
 [submodule "miliukhin"]
 	path = miliukhin
 	url = git@github.com:miliukhin/lpnu_cad_course.git
+	branch = master
+[submodule "kharachko"]
+	path = kharachko
+	url = git@github.com:Kharachko/kharachkolabs.git
+	branch = main
+[submodule "sumvody"]
+	path = sumvody
+	url = git@github.com:SumVody/laba_baba.git
+	branch = main
