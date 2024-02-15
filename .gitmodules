@@ -10,3 +10,11 @@
 	path = sumvody
 	url = git@github.com:SumVody/laba_baba.git
 	branch = main
+[submodule "nazarwadim"]
+	path = nazarwadim
+	url = git@github.com:Nazarwadim/labs.git
+	branch = master
+[submodule "bogdanvereshchak"]
+	path = bogdanvereshchak
+	url = git@github.com:BogdanVereshchak/BodyaLabs.git
+	branch = main
